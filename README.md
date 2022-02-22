@@ -1,6 +1,3 @@
- PDF To Markdown Converter
-Debug View
-Result View
 # Órai feladat – Öröklés
 
 ## A projektben már meglévő osztályok leírása
@@ -122,8 +119,3 @@ Készíts egy **Tank** osztályt, ami az **Auto** leszármazottja:
 Teszt: létrehozva több **Auto** és **Tank** objektumot, ezek is megfelelően működjenek. Az autón látni
 kell, hogy változik a sebessége (pl. ha elindítunk mellette egy Helikoptert, akkor azt néha megelőzi,
 néha lemarad). A Tanknak pedig át kell mennie a vízen, de egy idő után le kell állnia magától.
-
-
-
-This is a offline tool, your data stays locally and is not send to any server!
-Feedback & Bug Reports
