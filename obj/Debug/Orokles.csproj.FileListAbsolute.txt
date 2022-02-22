@@ -1,0 +1,22 @@
+F:\Zoli_info_lecke\OEgyetem\SzoftvertervezesFejlesztes2\01-Orokles\Orokles\bin\Debug\Orokles.exe.config
+F:\Zoli_info_lecke\OEgyetem\SzoftvertervezesFejlesztes2\01-Orokles\Orokles\bin\Debug\Orokles.exe
+F:\Zoli_info_lecke\OEgyetem\SzoftvertervezesFejlesztes2\01-Orokles\Orokles\bin\Debug\Orokles.pdb
+F:\Zoli_info_lecke\OEgyetem\SzoftvertervezesFejlesztes2\01-Orokles\Orokles\obj\Debug\Orokles.csprojAssemblyReference.cache
+F:\Zoli_info_lecke\OEgyetem\SzoftvertervezesFejlesztes2\01-Orokles\Orokles\obj\Debug\Orokles.csproj.CoreCompileInputs.cache
+F:\Zoli_info_lecke\OEgyetem\SzoftvertervezesFejlesztes2\01-Orokles\Orokles\obj\Debug\Orokles.exe
+F:\Zoli_info_lecke\OEgyetem\SzoftvertervezesFejlesztes2\01-Orokles\Orokles\obj\Debug\Orokles.pdb
+E:\OEgyetem\SZTF2\01-Orokles\Orokles\bin\Debug\Orokles.exe.config
+E:\OEgyetem\SZTF2\01-Orokles\Orokles\bin\Debug\Orokles.exe
+E:\OEgyetem\SZTF2\01-Orokles\Orokles\bin\Debug\Orokles.pdb
+E:\OEgyetem\SZTF2\01-Orokles\Orokles\obj\Debug\Orokles.csproj.AssemblyReference.cache
+E:\OEgyetem\SZTF2\01-Orokles\Orokles\obj\Debug\Orokles.csproj.CoreCompileInputs.cache
+E:\OEgyetem\SZTF2\01-Orokles\Orokles\obj\Debug\Orokles.exe
+E:\OEgyetem\SZTF2\01-Orokles\Orokles\obj\Debug\Orokles.pdb
+C:\Users\Szalai István\Desktop\01-Orokles\Orokles\bin\Debug\Orokles.exe.config
+C:\Users\Szalai István\Desktop\01-Orokles\Orokles\bin\Debug\Orokles.exe
+C:\Users\Szalai István\Desktop\01-Orokles\Orokles\bin\Debug\Orokles.pdb
+C:\Users\Szalai István\Desktop\01-Orokles\Orokles\obj\Debug\Orokles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szalai István\Desktop\01-Orokles\Orokles\obj\Debug\Orokles.csproj.CoreCompileInputs.cache
+C:\Users\Szalai István\Desktop\01-Orokles\Orokles\obj\Debug\Orokles.exe
+C:\Users\Szalai István\Desktop\01-Orokles\Orokles\obj\Debug\Orokles.pdb
+C:\Users\Szalai István\Desktop\01-Orokles\Orokles\obj\Debug\Orokles.csproj.AssemblyReference.cache
